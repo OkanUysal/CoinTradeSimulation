@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Virtual Coin Market</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="coin_market">Market</string>
+    <string name="balance">Balance</string>
+    <string name="coinbalance">"Coins Total Value:"</string>
+    <string name="summary">Transaction Summary</string>
+    <string name="refresh">Refresh</string>
+    <string name="load">Loading</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="cancel">Cancel</string>
+    <string name="piece">Amount</string>
+    <string name="nomoney">"You don't have enough money"</string>
+    <string name="nocoin">"You don't have enough coin"</string>
+    <string name="internet">"Please check your internet connection and click refresh button"</string>
+    <string name="app_id">ca-app-pub-6328620287804966~5518026934</string>
+
+
+    <string-array name="coinString">
+        <item>aeternity</item>
+        <item>ardor</item>
+        <item>ark</item>
+        <item>augur</item>
+        <item>binance-coin</item>
+        <item>bitcoin-cash</item>
+        <item>bitcoin-gold</item>
+        <item>bitcoin</item>
+        <item>bitshares</item>
+        <item>bytecoin-bcn</item>
+        <item>cardano</item>
+        <item>dash</item>
+        <item>decred</item>
+        <item>digixdao</item>
+        <item>dogecoin</item>
+        <item>eos</item>
+        <item>ethereum-classic</item>
+        <item>ethereum</item>
+        <item>hshare</item>
+        <item>icon</item>
+        <item>iota</item>
+        <item>komodo</item>
+        <item>kucoin-shares</item>
+        <item>kyber-network</item>
+        <item>lisk</item>
+        <item>litecoin</item>
+        <item>maker</item>
+        <item>monero</item>
+        <item>nem</item>
+        <item>neo</item>
+        <item>omisego</item>
+        <item>populous</item>
+        <item>qtum</item>
+        <item>rchain</item>
+        <item>revain</item>
+        <item>ripple</item>
+        <item>siacoin</item>
+        <item>status</item>
+        <item>steem</item>
+        <item>stellar</item>
+        <item>stratis</item>
+        <item>tether</item>
+        <item>tron</item>
+        <item>vechain</item>
+        <item>verge</item>
+        <item>veritaseum</item>
+        <item>walton</item>
+        <item>waves</item>
+        <item>zcash</item>
+    </string-array>
+
+
+
+</resources>

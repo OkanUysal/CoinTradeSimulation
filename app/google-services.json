@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "734983504348",
+    "firebase_url": "https://cointradesimulation.firebaseio.com",
+    "project_id": "cointradesimulation",
+    "storage_bucket": "cointradesimulation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734983504348:android:f4cbfabba59e8e05",
+        "android_client_info": {
+          "package_name": "cointrade.uysal.development.cointradesimulation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734983504348-tduq1abtcvldr2e982bsmtdkcgr1a5s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cointrade.uysal.development.cointradesimulation",
+            "certificate_hash": "0237696f96680db89c456e8d1e1669e29925acbb"
+          }
+        },
+        {
+          "client_id": "734983504348-slnle14lpkipvqnjoj9rrgmtbvb6gd3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF9ThK3t46ORf36jG7gJG9vfuGtH3jvWI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734983504348-slnle14lpkipvqnjoj9rrgmtbvb6gd3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
